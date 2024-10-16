@@ -2,6 +2,7 @@
 # 1 -- Get PDF
 # 2 -- Add bookmark
 # 3 -- Output bookmarked PDF
+# Uses pdftk
 # Added features to check if bookmarks already exist
 # And if so: 1) increment level of all current bookmarks, and 2) insert default bookmark at top of bookmark list
 param(
